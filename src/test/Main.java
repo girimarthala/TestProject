@@ -7,5 +7,6 @@ public class Main {
         System.out.println("This is a sample java class");
         System.out.println("This is a sample java class2");
 
+        System.out.println("This is a sample java class3");
     }
 }
